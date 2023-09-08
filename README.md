@@ -45,7 +45,7 @@ The chart can be configured to facilitate non-standard data formats and to alter
 ```
 
 ## Links
-- [Interactive Example](https://rhoinc.github.io/ae-timelines/test-page/)
+- [Interactive Example](https://statppl.github.io/ae-timelines-bhv206/)
 - [Configuration](https://github.com/RhoInc/ae-timelines/wiki/Configuration) 
 - [API](https://github.com/RhoInc/ae-timelines/wiki/API)
 - [Technical Documentation](https://github.com/RhoInc/ae-timelines/wiki/Technical-Documentation) 
